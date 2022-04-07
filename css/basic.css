@@ -1,0 +1,13 @@
+/*
+*==> Vary basic Style for this plugin
+*/
+
+figure.wp-block-image h3,
+figure.wp-block-image p {
+  margin: 3px 0;
+  text-transform: capitalize;
+}
+
+figure.wp-block-image figcaption {
+  display: none;
+}
